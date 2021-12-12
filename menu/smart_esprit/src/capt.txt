@@ -1,0 +1,7 @@
+1447 MICRO_EPSILON capteur_de_Debit_deau 1 1 2010 002
+1478 BOSCH Balance 1 1 2010 145
+985 MICRO_EPSILON capteur_de_Temperature 1 1 2010 25
+963 MADE_IN_CHINA capteur_de_Debit_deau 1 1 2010 1
+14789 NERDO capteur_de_Fumee 1 1 2010 0
+1478975 NERDO capteur_de_Mouvement 1 1 2010 1
+14 MICRO_EPSILON Balance 1 1 2021 1024

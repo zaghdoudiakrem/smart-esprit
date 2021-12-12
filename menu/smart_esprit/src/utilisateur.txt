@@ -1,0 +1,6 @@
+Admin gueni moenes 21 8 2000 moenes.gueni 0000 1 
+Technicien marnissi arafet 1 1 2000 arafet.marnissi 2020 2 
+Etudiant troudi asma 1 1 2000 asma.troudi asmaprojet1 3 
+Agent_de_foyer jerbi yasmine 1 1 2000 yasmine.jerbi y123456789 4 
+Nutritionniste zaghdoudi akrem 1 1 2000 akrem.zaghdoudi 123456 5 
+Agent_de_restaurant lahmer aziz 1 1 2000 aziz.lahmer 123456789 7 
